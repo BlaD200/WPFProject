@@ -1,2 +1,2 @@
 # WPFProject
-CSharpProgramming course projects
+CSharp programming course projects
